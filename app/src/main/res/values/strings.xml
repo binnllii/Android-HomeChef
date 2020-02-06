@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HomeChef</string>
+    <string name="title_text">Welcome To HomeChef</string>
+    <string name="redefiningChef">Redefining Chefs All Over</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">or</string>
+    <string name="sign_up_text">sign up</string>
+    <string name="username_hint">Username</string>
+    <string name="create_text">Create Account</string>
+    <string name="save_button">Add Picture</string>
+    <string name="title_hint">Image Title</string>
+    <string name="thoughts">Description</string>
+    <string name="menu_title">Add Item</string>
+    <string name="signout">Sign Out</string>
+    <string name="no_thoughts_hint">Add the first item by clicking the \"+\" icon above.</string>
+    <string name="starting_likes">0 likes</string>
+</resources>

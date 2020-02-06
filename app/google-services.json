@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838959349768",
+    "firebase_url": "https://homechef-575ce.firebaseio.com",
+    "project_id": "homechef-575ce",
+    "storage_bucket": "homechef-575ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838959349768:android:b63a76af358eb751e1d1bd",
+        "android_client_info": {
+          "package_name": "com.binli.homechef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838959349768-7a4486e6s6lp68a4uc68v7krhqd1kq2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.binli.homechef",
+            "certificate_hash": "1f4df3721bf16eb50319c5479e8209ed2139e626"
+          }
+        },
+        {
+          "client_id": "838959349768-4e0dohvfr2kjdprbcfqf8rqbj7p1lk64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmXmjCnrhwQ3bae-t6ritPwITPzj97oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838959349768-4e0dohvfr2kjdprbcfqf8rqbj7p1lk64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
